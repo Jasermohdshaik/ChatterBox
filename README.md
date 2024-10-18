@@ -32,6 +32,7 @@ To run the application locally, follow the steps below:
 in bash
 
 git clone https://github.com/Jasermohdshaik/chatterbox.git
+
 cd chatterbox
 
 
