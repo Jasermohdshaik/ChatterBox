@@ -29,10 +29,11 @@ To run the application locally, follow the steps below:
 
 ### Clone the Repository
 
-```bash
-git clone https://github.com/your-username/chatterbox.git
+in bash
+
+git clone https://github.com/Jasermohdshaik/chatterbox.git
 cd chatterbox
-```
+
 
 ### Backend Setup
 
